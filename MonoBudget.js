@@ -4,7 +4,7 @@
 
 /*
  * MonoBudget — weekly & monthly spending budget from Monobank as iOS widgets.
- * https://github.com/25LioN52/MonoBudget-ios  ·  MIT License
+ * https://github.com/mike-zaz/MonoBudget-ios  ·  MIT License
  *
  * Paste this whole file into a new Scriptable script. Edit only the CONFIG block.
  *

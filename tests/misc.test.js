@@ -72,7 +72,7 @@ test("security: API text is sanitised before display", () => {
 test("security: only api.monobank.ua is contacted, token is never logged", () => {
   const urls = SOURCE.match(/https?:\/\/[^\s"'`)]+/g) || [];
   for (const url of urls) {
-    assert.ok(/^https:\/\/(api\.monobank\.ua|github\.com\/25LioN52\/MonoBudget-ios)/.test(url), `unexpected URL ${url}`);
+    assert.ok(/^https:\/\/(api\.monobank\.ua|github\.com\/mike-zaz\/MonoBudget-ios)/.test(url), `unexpected URL ${url}`);
   }
   assert.equal((SOURCE.match(/new Request\(/g) || []).length, 1, "single network call site");
   assert.ok(!/console\.(log|warn|error)/.test(SOURCE), "no console logging");
