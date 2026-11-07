@@ -3,7 +3,7 @@
 ## Як повідомити про вразливість
 
 **Не створюйте публічний issue.** Скористайтеся приватним каналом GitHub:
-[Security → Report a vulnerability](https://github.com/25LioN52/MonoBudget-ios/security/advisories/new).
+[Security → Report a vulnerability](https://github.com/mike-zaz/MonoBudget-ios/security/advisories/new).
 
 Опишіть проблему, як її відтворити і можливий вплив. **Не надсилайте свій токен Monobank чи справжні виписки** — для демонстрації достатньо синтетичних даних.
 
@@ -36,7 +36,7 @@
 ## Reporting a vulnerability (English)
 
 **Do not open a public issue.** Use GitHub's private
-[Report a vulnerability](https://github.com/25LioN52/MonoBudget-ios/security/advisories/new) form.
+[Report a vulnerability](https://github.com/mike-zaz/MonoBudget-ios/security/advisories/new) form.
 Describe the issue, steps to reproduce and the impact. **Never send your Monobank token or real statements.**
 I aim to reply within 7 days. Only the latest version of `MonoBudget.js` is supported.
 

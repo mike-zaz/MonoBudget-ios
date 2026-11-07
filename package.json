@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/25LioN52/MonoBudget-ios.git"
+    "url": "https://github.com/mike-zaz/MonoBudget-ios.git"
   },
   "engines": {
     "node": ">=22"

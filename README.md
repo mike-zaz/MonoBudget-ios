@@ -1,6 +1,6 @@
 # MonoBudget для iOS
 
-[![CI](https://github.com/25LioN52/MonoBudget-ios/actions/workflows/ci.yml/badge.svg)](https://github.com/25LioN52/MonoBudget-ios/actions/workflows/ci.yml)
+[![CI](https://github.com/mike-zaz/MonoBudget-ios/actions/workflows/ci.yml/badge.svg)](https://github.com/mike-zaz/MonoBudget-ios/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Тижневий і місячний бюджет витрат з **Monobank** у віджетах iPhone — на домашньому екрані та екрані блокування. Працює через безкоштовний додаток [Scriptable](https://scriptable.app/): один файл JavaScript, без серверів і сторонніх залежностей.
